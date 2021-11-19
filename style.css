@@ -1,0 +1,24 @@
+#container {
+    background-color: #CBC7BE; 
+    text-align: center;
+    }
+
+    h1 {
+        color: #464646;
+        font-size: 48px;
+    }
+
+    p.verse {
+        color: #464646;
+        font-size: 24px;
+    }
+    
+    #author-img {
+        width: 120px;
+    }
+
+    #author-name {
+        color: #464646;
+        font-size: 16px;
+        font-weight: bold;
+    }
